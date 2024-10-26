@@ -60,3 +60,30 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Derived data
+DerivedData/
+
+# Archives
+*.xcarchive
+
+# Scheme management
+xcshareddata/
+
+# Code coverage
+*.xccovreport
+*.xccovarchive
+
+# Device data
+*.deviceinfo
+*.deviceids
+
+# Logs
+*.xcactivitylog
+*.buildtiming
+*.xcresult
+
+# SwiftPM
+.swiftpm/xcode/package.resolved
+
+.DS_Store
